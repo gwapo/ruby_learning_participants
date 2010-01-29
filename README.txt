@@ -56,6 +56,7 @@ Change log:
 --------------------------------------------------------------------
 
 Cheers,
+Dennis Carique	
 ashbb (Satoshi Asakawa)
 http://rubylearning.org
 Dennis
